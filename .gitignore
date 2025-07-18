@@ -1,0 +1,15 @@
+## node_modules
+client/node_modules/
+server/node_modules/
+
+## OS
+.DS_Store
+
+## log
+*.log
+
+## local environment
+.env
+.env.local
+
+.vscode/
